@@ -20,6 +20,7 @@ from httplib2 import Http
 
 from yql.utils import get_http_method, clean_url, clean_query
 from yql.logger import get_logger
+from yql.plugins import *
 import oauth2 as oauth
 
 try:
