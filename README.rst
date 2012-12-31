@@ -45,6 +45,11 @@ Documentation
 
 Documentation can be found at http://python-yql.org/
 
+Plugins
+=======
+
+* WeatherWrapper
+
 Contributions
 =============
 
